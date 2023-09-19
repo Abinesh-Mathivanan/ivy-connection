@@ -70,7 +70,7 @@ Before using Ivy Connection, ensure you have the following:
    python connection.py
    ```
 
-   The script will perform automated tasks and store the data in a CSV file.
+   The script will perform automated tasks and send automatic connection requests.
 
 #### `dynamic_parsing.py`
 
