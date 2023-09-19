@@ -82,7 +82,7 @@ if __name__ == '__main__':
     bot.driver = webdriver.Chrome(options=chrome_options)
     
     bot.login(bot.driver)
-    csv_filename = "females.csv"  # Specify the CSV filename
+    csv_filename = "university_females.csv"  # Specify the CSV filename
 
     bot.parse_and_store_ivy_league_students(csv_filename)
     bot.driver.quit()
