@@ -85,4 +85,3 @@ Ivy Connection is open-source software licensed under the [MIT License](LICENSE)
 **Disclaimer**: Please use Ivy Connection responsibly and in compliance with LinkedIn's terms of service. Automated actions on LinkedIn may be subject to restrictions and policies, so exercise caution when using this tool.
 ```
 
-You can copy and paste this template into a README.md file in your "ivy-connection" repository on GitHub and then customize it further to provide specific details about your project. Don't forget to update the links, descriptions, and any other information to match your project's specifics.
