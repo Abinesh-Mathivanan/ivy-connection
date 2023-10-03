@@ -1,6 +1,6 @@
-# Ivy Connection - LinkedIn Automation
+# Ivy Connection
 
-![LinkedIn Logo](https://brand.linkedin.com/content/dam/brand/site/img/logo/logo-tm.png)
+![Ivy Connection](https://github.com/Abinesh-Mathivanan/ivy-connection/assets/113496287/e7efbe35-ad26-4336-a671-db9171540297)
 
 Ivy Connection is a Python-based LinkedIn automation tool designed to connect with Ivy League university students on LinkedIn and collect their profile information for networking and professional purposes. This tool leverages the power of Selenium to perform automated tasks on the LinkedIn platform.
 
